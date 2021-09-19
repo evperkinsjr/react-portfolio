@@ -8,7 +8,7 @@ The application was deployed using Github Pages.
 - [Live Application](#)
 - [Project Repository](https://github.com/evperkinsjr/react-portfolio)
 
-
+![react-portfolio-screenshot](https://user-images.githubusercontent.com/79537431/133939264-e7328fca-df7d-4156-a0b6-966a06c3f777.png)
 
 
 ## Technologies Used
