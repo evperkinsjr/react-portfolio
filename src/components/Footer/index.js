@@ -3,7 +3,7 @@ import "./style.css";
 
 function Footer() {
     return (
-        <footer className="page-section contact">
+        <footer className="contact">
             <h2>Contact Me</h2>
             <div>
                 <address>
