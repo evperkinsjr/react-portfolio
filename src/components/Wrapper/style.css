@@ -1,0 +1,9 @@
+/*** Main Sections of Website ***/
+main {
+    margin: 20px 0 45px 0;
+}
+
+.main-wrapper {
+    max-width: 88%;
+    margin: 0 auto;
+}
