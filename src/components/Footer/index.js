@@ -1,8 +1,9 @@
 import React from 'react';
+import "./style.css";
 
 function Footer() {
     return (
-        <footer>
+        <footer className="page-section contact">
             <h2>Contact Me</h2>
             <div>
                 <address>
