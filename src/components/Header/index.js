@@ -8,7 +8,7 @@ function Navbar() {
             <nav>
                 <Link to="/about">About Me</Link>
                 <Link to="/projects">Projects</Link>
-                <Link to="assets/documents/Enrico_Perkins_Resume.pdf">Resume</Link>
+                <Link to="../../assets/Enrico_Perkins_Resume.pdf" target="_blank">Resume</Link>
             </nav>
         </header>
     );
