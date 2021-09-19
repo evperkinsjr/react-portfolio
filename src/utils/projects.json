@@ -1,56 +1,56 @@
 [
     {
         "title": "GitShare",
-        "image": "",
-        "description": "",
-        "technologies": "",
-        "link": "",
-        "repo": ""
+        "image": "../../images/gitshare-screenshot.png", 
+        "description": "Full-stack project board application. Users create accounts, then log in to share or apply to projects. This was a collaboration project with three other developers.",
+        "technologies": "JavaScript, Node.js, MySQL, Handlebars, Bulma (CSS Framework), Heroku",
+        "link": "https://git-share.herokuapp.com/",
+        "repo": "https://github.com/evperkinsjr/gitshare"
 
     },
     {
         "title": "Movie-Drink Matchmaker",
-        "image": "",
-        "description": "",
-        "technologies": "",
-        "link": "",
-        "repo": ""
+        "image": "../../images/movie-drink-matchmaker-screenshot.png",
+        "description": "Date night application that provides the user with a movie and drink recommendation based on their selections. This was a collaboration project with four other developers.",
+        "technologies": "HTML, CSS, JavaScript, Bulma (CSS Framework), jQuery, APIs",
+        "link": "https://evperkinsjr.github.io/movie-drink-matchmaker/",
+        "repo": "https://github.com/evperkinsjr/movie-drink-matchmaker"
 
     },
     {
         "title": "React Employee Directory",
-        "image": "",
-        "description": "",
-        "technologies": "",
-        "link": "",
-        "repo": ""
+        "image": "../../images/react-employee-directory-screenshot.png",
+        "description": "Users can view names, photos, and contact information of everyone in the company. The user can search for people by name or sort the directory alphabetically by last name.",
+        "technologies": "React, Bootstrap, JavaScript, Node.js, Github Pages, Random User API",
+        "link": "https://evperkinsjr.github.io/react-employee-directory/",
+        "repo": "https://github.com/evperkinsjr/react-employee-directory"
 
     },
     {
         "title": "Budget Tracker",
-        "image": "",
-        "description": "",
-        "technologies": "",
-        "link": "",
-        "repo": ""
+        "image": "../../images/budget-tracker-screenshot.png",
+        "description": "Budget Tracker application to allow for offline access and functionality. It gives users a fast, easy way to track their money and allows them to access that information anytime. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",
+        "technologies": "JavaScript, Node.js, MongoDB and MongoDB Atlas, Heroku",
+        "link": "https://shielded-dawn-11193.herokuapp.com/",
+        "repo": "https://github.com/evperkinsjr/budget-tracker"
 
     },
     {
         "title": "Javascript Fundamentals Quiz",
-        "image": "",
-        "description": "",
-        "technologies": "",
-        "link": "",
-        "repo": ""
+        "image": "../../images/js-fundamentals-quiz-screenshot.png",
+        "description": "Timed quiz to test the user’s knowledge of JavaScript. User has 60 seconds to answer five questions. Each incorrect answer deducts ten seconds from the timer. When time is up or all questions have been answered, the user can save their score to the high scores page.",
+        "technologies": "HTML, CSS, JavaScript, jQuery, LocalStorage",
+        "link": "https://evperkinsjr.github.io/js-fundamentals-quiz/",
+        "repo": "https://github.com/evperkinsjr/js-fundamentals-quiz"
 
     },
     {
         "title": "Note Taker",
-        "image": "",
-        "description": "",
-        "technologies": "",
-        "link": "",
-        "repo": ""
+        "image": "../../images/note-taker-screenshot.png",
+        "description": "Built the back end of a note taking application that lets users write, save, and delete notes. It saves and retrieves data from a JSON file.",
+        "technologies": "JavaScript, Node.js, Express.js, CSS",
+        "link": "https://tranquil-stream-23779.herokuapp.com/",
+        "repo": "https://github.com/evperkinsjr/note-taker"
 
     }
 ]
