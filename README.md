@@ -5,7 +5,7 @@
 For this project, I updated my portfolio website using React. I moved the projects to a separate page and used React Router for navigation.
 
 The application was deployed using Github Pages.
-- [Live Application](#)
+- [Live Application](https://evperkinsjr.github.io/react-portfolio/)
 - [Project Repository](https://github.com/evperkinsjr/react-portfolio)
 
 ![react-portfolio-screenshot](https://user-images.githubusercontent.com/79537431/133939264-e7328fca-df7d-4156-a0b6-966a06c3f777.png)
