@@ -87,6 +87,16 @@ body {
       max-height: 250px;
   }
 
+  .flex-project {
+    flex-basis: auto;
+    flex-direction: column;
+  }
+
+  footer h2 {
+    padding: 5px auto;
+    text-align: center;
+  }
+
   .contact address {
     flex-direction: column;
     align-items: center;
