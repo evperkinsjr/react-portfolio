@@ -6,7 +6,7 @@ function About() {
         <section className="page-section">
             <h2>About Me</h2>
             <div>
-                <img className="profile-photo" src="../../assets/profile-photo.jpg" alt="Enrico Perkins Jr"/>
+                <img className="profile-photo" src="/react-portfolio/assets/profile-photo.jpg" alt="Enrico Perkins Jr"/>
                 <p>Hi, I'm Enrico. I joined the UNC-Charlotte Coding Bootcamp in April 2021.</p>
                 <p>I'm a digital marketer developing skills in full-stack web development.</p>
                 <p>My extensive background in digital marketing helps me understand how users interact with websites and applications.</p>
