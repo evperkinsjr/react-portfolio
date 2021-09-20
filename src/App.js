@@ -9,7 +9,7 @@ import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Navbar />
       <Wrapper>
       <Route exact path="/" component={AboutPage} />
