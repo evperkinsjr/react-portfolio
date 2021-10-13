@@ -7,8 +7,6 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Enrico.
-            <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
           </h1>
           <p className="mb-8 leading-relaxed">
           Full-stack developer with 13+ years of digital marketing experience and a Web Development certificate from UNC-Charlotte. Strengths include problem-solving, creativity, versatility, and getting the user to take the desired action. Excited to combine my analytical, creative, and technical abilities to deliver meaningful solutions.
@@ -26,7 +24,7 @@ export default function About() {
             </a>
           </div>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <div className="lg:max-w-md lg:w-5/12 md:w-1/2 w-5/6">
           <img
             className="object-cover object-center rounded"
             alt="hero"
