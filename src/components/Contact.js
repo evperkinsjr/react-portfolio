@@ -36,7 +36,7 @@ export default function Contact() {
             Contact Me
           </h1>
           <p className="leading-relaxed mb-5">
-            Want to get in touch? I'd love to hear from you!
+            Want to get in touch? Email <a href="mailto:enrico.perkins@gmail.com" className="text-green-500 hover:text-indigo-500">enrico.perkins@gmail.com</a> or fill out the form. I'd love to hear from you!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
