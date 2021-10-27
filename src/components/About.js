@@ -9,12 +9,12 @@ export default function About() {
             Hi, I'm Enrico.
           </h1>
           <p className="mb-8 leading-relaxed">
-          Full-stack developer with 13+ years of digital marketing experience and a Web Development certificate from UNC-Charlotte. Strengths include problem-solving, creativity, versatility, and getting the user to take the desired action. Excited to combine my analytical, creative, and technical abilities to deliver meaningful solutions.
+          I'm a full stack developer with a digital marketing background. I recently earned a Full Stack Development certificate from UNC-Charlotte, where I developed skills in JavaScript, HTML/CSS, and the MERN Stack. An innovative problem solver focused on helping the user take the desired action. I'm excited to utilize my analytical, creative, and technical abilities to deliver meaningful solutions.
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
               Work With Me
             </a>
             <a
