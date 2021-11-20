@@ -12,7 +12,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Here are some projects I created while attending the UNC-Charlotte Full-Stack Web Development Bootcamp in 2021.
+            Here are some projects I've worked on recently.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
