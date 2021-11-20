@@ -40,12 +40,12 @@ export const projects = [
     link: "https://afternoon-tundra-21995.herokuapp.com/?id=6126c21b8f40fc001642ca5c",
   },
   {
-    title: "Javascript Fundamentals Quiz",
-    subtitle: "HTML, CSS, JavaScript, jQuery, LocalStorage",
-    description: "Timed quiz to test the user’s knowledge of JavaScript. User has 60 seconds to answer five questions.",
-    image: "./assets/js-fundamentals-quiz-screenshot.png",
-    repo: "https://github.com/evperkinsjr/js-fundamentals-quiz",
-    link: "https://evperkinsjr.github.io/js-fundamentals-quiz/",
+    title: "Python Newsfeed",
+    subtitle: "Python, Flask, MySQL, JavaScript, Heroku",
+    description: "News application that lets users post links to tech-related articles, comment on posts, and upvote posts.",
+    image: "./assets/python-newsfeed-screenshot.png",
+    repo: "https://github.com/evperkinsjr/python-newsfeed",
+    link: "https://twilight-feather-9881.herokuapp.com/",
   },
 ];
 
