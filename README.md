@@ -2,9 +2,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-Updated October 14, 2021
-- redesigned portfolio with Tailwind CSS
-- added new projects
+Updated November 20, 2021
+- added Python to skills and projects
 
 This version was deployed using Netlify.
 - [Live Application](https://enricoperkins.com)
