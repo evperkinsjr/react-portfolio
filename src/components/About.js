@@ -9,7 +9,7 @@ export default function About() {
             Hi, I'm Enrico.
           </h1>
           <p className="mb-8 leading-relaxed">
-          I'm a full stack developer with a digital marketing background. I recently earned a Full Stack Development certificate from UNC-Charlotte, where I developed skills in JavaScript, HTML/CSS, and the MERN Stack. An innovative problem solver focused on helping the user take the desired action. I'm excited to leverage my analytical, creative, and technical abilities to deliver meaningful solutions.
+          I'm a full stack developer with a digital marketing background. I recently earned a Full Stack Development certificate from UNC-Charlotte, where I developed skills in JavaScript, MERN Stack, MySQL, and Python. An innovative problem solver focused on helping the user take the desired action. I'm excited to leverage my analytical, creative, and technical abilities to deliver meaningful solutions.
           </p>
           <div className="flex justify-center">
             <a

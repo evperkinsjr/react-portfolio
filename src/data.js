@@ -71,8 +71,8 @@ export const skills = [
   "Express",
   "React",
   "Node",
-  "Mongoose",
   "MySQL",
-  "Sequelize",
+  "Python",
+  "Flask",
   "Heroku"
 ];
