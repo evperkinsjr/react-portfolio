@@ -11,7 +11,7 @@
     {
         "title": "Google Books Search",
         "image": "/react-portfolio/assets/google-books-search-screenshot.png", 
-        "description": "CFull-stack application lets users search the Google Books API for books of interest.",
+        "description": "Full-stack application lets users search the Google Books API for books of interest.",
         "technologies": "MERN Stack, Google Books API, JavaScript, Bootstrap, Heroku",
         "link": "https://salty-sands-65360.herokuapp.com/",
         "repo": "https://github.com/evperkinsjr/google-books-search"
