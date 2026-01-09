@@ -1,20 +1,20 @@
 [
     {
-        "title": "GitShare",
-        "image": "/react-portfolio/assets/gitshare-screenshot.png", 
-        "description": "Full-stack project board application. Users create accounts, then log in to share or apply to projects. This was a collaboration project with three other developers.",
-        "technologies": "JavaScript, Node.js, MySQL, Handlebars, Bulma (CSS Framework), Heroku",
-        "link": "https://git-share.herokuapp.com/",
-        "repo": "https://github.com/evperkinsjr/gitshare"
+        "title": "Excel-to-HTML Converter",
+        "image": "/react-portfolio/assets/excel-to-html-converter-screenshot.png", 
+        "description": "Converts Excel spreadsheets into clean, copyable HTML tables — with selectable formatting options and instant preview.",
+        "technologies": "JavaScript, Tailwind CSS, SheetJS, U.S. Web Design System, HTML, CSS",
+        "link": "https://evperkinsjr.github.io/excel-to-html-converter/",
+        "repo": "https://github.com/evperkinsjr/excel-to-html-converter"
 
     },
     {
-        "title": "Movie-Drink Matchmaker",
-        "image": "/react-portfolio/assets/movie-drink-matchmaker-screenshot.png",
-        "description": "Date night application that provides the user with a movie and drink recommendation based on their selections. This was a collaboration project with four other developers.",
-        "technologies": "HTML, CSS, JavaScript, Bulma (CSS Framework), jQuery, APIs",
-        "link": "https://evperkinsjr.github.io/movie-drink-matchmaker/",
-        "repo": "https://github.com/evperkinsjr/movie-drink-matchmaker"
+        "title": "Google Books Search",
+        "image": "/react-portfolio/assets/google-books-search-screenshot.png", 
+        "description": "CFull-stack application lets users search the Google Books API for books of interest.",
+        "technologies": "MERN Stack, Google Books API, JavaScript, Bootstrap, Heroku",
+        "link": "https://salty-sands-65360.herokuapp.com/",
+        "repo": "https://github.com/evperkinsjr/google-books-search"
 
     },
     {
@@ -27,30 +27,12 @@
 
     },
     {
-        "title": "Budget Tracker",
-        "image": "/react-portfolio/assets/budget-tracker-screenshot.png",
-        "description": "Budget Tracker application to allow for offline access and functionality. It gives users a fast, easy way to track their money and allows them to access that information anytime. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",
-        "technologies": "JavaScript, Node.js, MongoDB and MongoDB Atlas, Heroku",
-        "link": "https://shielded-dawn-11193.herokuapp.com/",
-        "repo": "https://github.com/evperkinsjr/budget-tracker"
-
-    },
-    {
-        "title": "Javascript Fundamentals Quiz",
-        "image": "/react-portfolio/assets/js-fundamentals-quiz-screenshot.png",
-        "description": "Timed quiz to test the user’s knowledge of JavaScript. User has 60 seconds to answer five questions. Each incorrect answer deducts ten seconds from the timer. When time is up or all questions have been answered, the user can save their score to the high scores page.",
-        "technologies": "HTML, CSS, JavaScript, jQuery, LocalStorage",
-        "link": "https://evperkinsjr.github.io/js-fundamentals-quiz/",
-        "repo": "https://github.com/evperkinsjr/js-fundamentals-quiz"
-
-    },
-    {
-        "title": "Note Taker",
-        "image": "/react-portfolio/assets/note-taker-screenshot.png",
-        "description": "Built the back end of a note taking application that lets users write, save, and delete notes. It saves and retrieves data from a JSON file.",
-        "technologies": "JavaScript, Node.js, Express.js, CSS",
-        "link": "https://tranquil-stream-23779.herokuapp.com/",
-        "repo": "https://github.com/evperkinsjr/note-taker"
+        "title": "Movie-Drink Matchmaker",
+        "image": "/react-portfolio/assets/movie-drink-matchmaker-screenshot.png",
+        "description": "Date night application that provides the user with a movie and drink recommendation based on their selections. This was a collaboration project with four other developers.",
+        "technologies": "HTML, CSS, JavaScript, Bulma (CSS Framework), jQuery, APIs",
+        "link": "https://evperkinsjr.github.io/movie-drink-matchmaker/",
+        "repo": "https://github.com/evperkinsjr/movie-drink-matchmaker"
 
     }
 ]
