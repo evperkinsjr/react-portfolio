@@ -8,9 +8,7 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Enrico.
           </h1>
-          <p className="mb-8 leading-relaxed">
-          I'm a full stack developer with a digital marketing background. I recently earned a Full Stack Development certificate from UNC-Charlotte, where I developed skills in JavaScript, MERN Stack, MySQL, and Python. An innovative problem solver focused on helping the user take the desired action. I'm excited to leverage my analytical, creative, and technical abilities to deliver meaningful solutions.
-          </p>
+          <p className="mb-8 leading-relaxed">I&#39;m a web developer with 10+ years of experience building and maintaining large, content-heavy platforms, primarily in government and regulated environments. My work focuses on front-end tools and systems that reduce friction for non-technical users—clean architecture, accessibility-first design, and deliberate input validation. Many of my projects originate from real workflow problems and are rebuilt independently with an emphasis on clarity, safety, and long-term maintainability.</p>
           <div className="flex justify-center">
             <a
               href="#contact"
