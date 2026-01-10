@@ -3,7 +3,7 @@
         "title": "Excel-to-HTML Converter",
         "image": "/react-portfolio/assets/excel-to-html-converter-screenshot.png", 
         "description": "Converts Excel spreadsheets into clean, copyable HTML tables — with selectable formatting options and instant preview.",
-        "technologies": "JavaScript, Tailwind CSS, SheetJS, U.S. Web Design System, HTML, CSS",
+        "technologies": "JavaScript, Tailwind CSS, SheetJS, U.S. Web Design System",
         "link": "https://evperkinsjr.github.io/excel-to-html-converter/",
         "repo": "https://github.com/evperkinsjr/excel-to-html-converter"
 
