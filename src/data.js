@@ -1,19 +1,12 @@
 export const projects = [
+  
   {
-    title: "Movie-Drink Matchmaker",
-    subtitle: "HTML, CSS, JavaScript, Bulma (CSS Framework), jQuery, APIs",
-    description: "Date night application that provides the user with a movie and drink recommendation based on their selections.",
-    image: "./assets/movie-drink-matchmaker-screenshot.png",
-    repo: "https://github.com/evperkinsjr/movie-drink-matchmaker",
-    link: "https://evperkinsjr.github.io/movie-drink-matchmaker/",
-  },
-  {
-    title: "Git Share 2.0",
-    subtitle: "MERN Stack, Firebase, Passport, JavaScript, Bootstrap",
-    description: "Full-stack project planning application. New features include digital post-it notes for brainstorming and project priorities",
-    image: "./assets/git-share-v2-screenshot.png",
-    repo: "https://github.com/evperkinsjr/git-share",
-    link: "https://git--share.herokuapp.com/",
+    title: "Excel-to-HTML Converter",
+    subtitle: "JavaScript, Tailwind CSS, SheetJS, U.S. Web Design System",
+    description: "Converts Excel spreadsheets into clean, copyable HTML tables — with selectable formatting options and instant preview.",
+    image: "./assets/excel-to-html-converter-screenshot.png",
+    repo: "https://github.com/evperkinsjr/excel-to-html-converter",
+    link: "https://evperkinsjr.github.io/excel-to-html-converter/",
   },
   {
     title: "Google Books Search",
@@ -32,21 +25,13 @@ export const projects = [
     link: "https://evperkinsjr.github.io/react-employee-directory/",
   },
   {
-    title: "Workout Tracker",
-    subtitle: "JavaScript, Node.js, Express.js, MongoDB, Heroku",
-    description: "Tracking application that helps users reach their fitness goals by creating and tracking daily workouts.",
-    image: "./assets/workout-tracker-screenshot.png",
-    repo: "https://github.com/evperkinsjr/workout-tracker",
-    link: "https://afternoon-tundra-21995.herokuapp.com/?id=6126c21b8f40fc001642ca5c",
-  },
-  {
-    title: "Python Newsfeed",
-    subtitle: "Python, Flask, MySQL, JavaScript, Heroku",
-    description: "News application that lets users post links to tech-related articles, comment on posts, and upvote posts.",
-    image: "./assets/python-newsfeed-screenshot.png",
-    repo: "https://github.com/evperkinsjr/python-newsfeed",
-    link: "https://twilight-feather-9881.herokuapp.com/",
-  },
+    title: "Movie-Drink Matchmaker",
+    subtitle: "HTML, CSS, JavaScript, Bulma (CSS Framework), jQuery, APIs",
+    description: "Date night application that provides the user with a movie and drink recommendation based on their selections.",
+    image: "./assets/movie-drink-matchmaker-screenshot.png",
+    repo: "https://github.com/evperkinsjr/movie-drink-matchmaker",
+    link: "https://evperkinsjr.github.io/movie-drink-matchmaker/",
+  }
 ];
 
 export const testimonials = [
